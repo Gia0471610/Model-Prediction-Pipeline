@@ -10,10 +10,10 @@
 The data is from Kaggle "GooglePlayStore.csv", which is a dataset that contains information about mobile apps available on the Google Play Store. The dataset typically includes information such as app name, category, rating, number of reviews, size, installs, type (free or paid), price, content rating, genre, last updated date, and current version of the app.
 
 ## Technologies Used
-- Pycaret3
-- Scikit-learn
-- Matplotlib
-- Yellowbrick
+- :gear: Pycaret3
+- :chart_with_upwards_trend: Scikit-learn
+- :bar_chart: Matplotlib
+- :bulb: Yellowbrick
 
 ## Work Process
 1. Setup --> Model Training and Selection --> Model Evaluation --> Predictions on Hold-out/Test Set --> Predictions on New Data --> Model Visualization
